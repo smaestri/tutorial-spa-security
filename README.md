@@ -1,6 +1,6 @@
 # REST Authentication with Angular and Spring Securit
 
-This project is the source code of the [REST Authentication with Angular and Spring Security](http://www.effectivecoding.fr/).
+This project is the source code of the [REST Authentication with Angular and Spring Security](http://www.effectivecoding.fr) tutorial.
 
 ## Build backend
 
