@@ -5,7 +5,7 @@ It shows how to make authentication working with Angular 6 and Spring Security 5
 
 ## Build backend
 
-Run `npm clean install` on root project
+Run `mvn clean install` on root project
 
 ## Build frontend
 
