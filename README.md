@@ -1,6 +1,7 @@
 # REST Authentication with Angular and Spring Securit
 
 This project is the source code of the [REST Authentication with Angular and Spring Security](http://www.effectivecoding.fr) tutorial.
+It shows how to make authentication working with Angular 6 and Spring Security 5.
 
 ## Build backend
 
@@ -9,7 +10,7 @@ Run `npm clean install` on root project
 ## Build frontend
 
 Run `npm install` in `frontend` to retrieve frontend dependencies
-Run `ng build` in `frontend` folder to generate transpiled frontend fiels in `target/classes/static/`
+Run `ng build` in `frontend` folder to generate transpiled frontend files in `target/classes/static/`
 
 ## Run project
 
